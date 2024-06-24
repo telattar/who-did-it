@@ -17,7 +17,10 @@ Your choices will have consequences. Choose WISELY!
 Please note that due to the data file's large size, the full package can be accessed through this link https://drive.google.com/file/d/1bwWiuAwAsXpKDElknnP8b_eHPb5YdoeZ/view?usp=drive_link
 
 Credits:
-Tarteel Elattar
-Dina Ayman
-Nora Osama
-Farah Afifi
+Tarteel Elattar (Me)
+
+[Dina Ayman](https://github.com/DinaAymann)
+
+[Nora Osama](https://github.com/NoraOsama)
+
+[Farah Afifi](https://github.com/Farahafifii)
